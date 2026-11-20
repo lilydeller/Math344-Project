@@ -1,5 +1,6 @@
-# Ignore Movie Dataset
+# Ignore Movie Dataset and our repo
 ml-100k/
+Math344-Project/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
